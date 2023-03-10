@@ -1,5 +1,5 @@
 # Audio-Visualizer-Player-Python
-This is a Python-based project that allows users to play audio files while displaying real-time visualizations of the sound waveforms.
+This is a Python-based project that allows users to play audio files while displaying real-time color-gradient visualizations of the sound waveforms.
 
 Getting Started
 To use this tool, follow the steps below:
